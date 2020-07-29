@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="420px" viewBox="0 0 420 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>angular-starters</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="angular-starters" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(50.000000, 38.000000)">
+            <g id="shield" fill-rule="nonzero">
+                <polygon id="Shape" fill="#DD0031" points="160.5 0 160.5 0 160.5 0 0 57.27 24.4801289 269.6175 160.5 345 160.5 345 160.5 345 296.519871 269.6175 321 57.27"></polygon>
+                <polygon id="Shape" fill="#C3002F" points="160 0 160 38.295 160 38.1225 160 212.865 160 212.865 160 345 160 345 296.443609 269.6175 321 57.27"></polygon>
+            </g>
+            <g id="play-button" transform="translate(63.000000, 81.000000)" stroke="#FFFFFF">
+                <ellipse id="circle" stroke-width="12" cx="97.5" cy="91.5" rx="97.5" ry="91.5"></ellipse>
+                <polygon id="triangle" stroke-width="5" fill="#FFFFFF" transform="translate(98.000000, 92.000000) rotate(90.000000) translate(-98.000000, -92.000000) " points="98 32 149.961524 122 46.0384758 122"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
