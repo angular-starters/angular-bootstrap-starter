@@ -1,6 +1,20 @@
-# Starter
+<div align="center">
+  <h1>angular-bootstrap-starter</h1>
+  <p>Angular Starter with Bootstrap.</p>
+  <img src="https://github.com/angular-starters.png" title="angular-starters" alt="angular-starters logo">
+</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+## Getting started
+
+Run the following commands to download and install this starter:
+
+```bash
+git clone git@github.com:angular-starters/angular-bootstrap-starter.git
+cd angular-bootstrap-starter
+npm install
+```
+
+## Usage
 
 ## Development server
 
@@ -25,3 +39,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## MIT License
+
+Created by [Bram Borggreve](https://github.com/beeman).
